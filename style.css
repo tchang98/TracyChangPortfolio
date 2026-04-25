@@ -1,0 +1,13 @@
+/* CSS by Tracy Chang */
+/*Color Palette
+deep black: #05080D 
+slate blue: #65768C
+steel blue: #263640
+burnt orange: #BF5B04
+earth: #733917
+*/
+
+/* Global (base) MOBILE FIRST */
+body {
+    background-color: #65768C;
+}
