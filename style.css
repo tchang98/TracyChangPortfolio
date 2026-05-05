@@ -7,6 +7,7 @@ dark gray: #374151;
 muted gray: #9ca3af;
 barbie pink: #ec4899;
 muted pink: #fbcfe8;
+off white shadow: #rgba(0,0,0,0.05);
 */
 
 /* == Mobile First Styles == */
@@ -88,9 +89,9 @@ section {
 section h2 {
     color: #ec4899;
     margin-top: 0;
+
 }
 
-/* Links inside sections */
 section a {
     color: #ec4899;
     text-decoration: none;
