@@ -5,7 +5,7 @@ This project is a personal website built to showcase my skills, projects, and ex
 ## Pages Included
 - Home (index.html)
 - About
-- Projects
+- Resume
 - Contact
 
 ## Live Website
